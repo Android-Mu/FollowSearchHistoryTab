@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 标签横向之间的间距 -->
+    <attr name="horizontalSpacing" format="dimension" />
+    <!-- 标签竖向之间的间距 -->
+    <attr name="verticalSpacing" format="dimension" />
+    <!-- 标签字体大小-->
+    <attr name="itemSize" format="dimension" />
+    <!-- 标签字体颜色 -->
+    <attr name="itemColor" format="color" />
+    <!-- 标签背景框 -->
+    <attr name="backgroundResource" format="reference" />
+    <!-- 横向内边距 -->
+    <attr name="textPaddingH" format="dimension" />
+    <!-- 竖向内边距 -->
+    <attr name="textPaddingV" format="dimension" />
+
+    <declare-styleable name="FlowLayoutAttrs">
+        <attr name="horizontalSpacing" />
+        <attr name="verticalSpacing" />
+        <attr name="itemSize" />
+        <attr name="itemColor" />
+        <attr name="backgroundResource" />
+        <attr name="textPaddingH" />
+        <attr name="textPaddingV" />
+    </declare-styleable>
+
+</resources>
