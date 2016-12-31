@@ -15,8 +15,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 关键词流式布局
+ * Description：关键词流式布局
+ * <p>
+ * Created by code小生 on 2016/11/29.
  */
+
 public class FlowLayout extends RelativeLayout {
 
     // 水平间距，单位为dp

@@ -9,8 +9,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 类似搜索热门标签效果
+ * Description：热门搜索标签
+ * <p>
+ * Created by code小生 on 2016/11/29.
  */
+
 public class MainActivity extends AppCompatActivity {
 
     private EditText etSearch;
